@@ -8,6 +8,9 @@ sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
+Software Engineer at L3Harris
+
+
 1. Your current position
 1. Organizations you're involved with
 1. Your personal and professional values
@@ -19,14 +22,15 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+2017, 2018, 2020 Grace Hopper Celebration Attendee, 
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- Pennsylvania Spacde Grant 
 
 ## Social Media
 
 - Twitter
 - LinkedIn
 - GitHub
+- Instagram 
