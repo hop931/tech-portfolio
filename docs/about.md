@@ -3,12 +3,13 @@ id: about
 title: About
 ---
 
+Bachelor's degree in Computer Science focused in Mathematics and Data Analytics (Double Minor) from Elizabethtown College. 
+
+
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
-
-Software Engineer at L3Harris
 
 
 1. Your current position
@@ -22,15 +23,15 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-2017, 2018, 2020 Grace Hopper Celebration Attendee, 
+Software Engineer at L3Harris
 
 ## Recognition
 
-- Pennsylvania Spacde Grant 
+- Pennsylvania Space Grant 
+- 2017 Anita.b.org Grace Hopper Celebration Scholar
 
-## Social Media
+## Volunteer Work
 
-- Twitter
-- LinkedIn
-- GitHub
-- Instagram 
+- We3 Women Campus Site Lead: Promote We3 related events such as Tuition Reimbursement seminar, Mentoring Program by creating advertisement flyers, and emails 
+- Cross-ERG Mentoring Program: Mentor undergrad students about the professional lifestyle
+- PEER Program: Mentor incoming new hires with onboarding process by scheduling meetings with upper management, answering various questions about L3Harris tools                     and, introducing to coworkers.
