@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Haley Prengaman', // Title for your website.
-    tagline: 'Asprising Project Manager working with rocket ships',
+    tagline: 'Software Engineer, Future Project Manager',
     profilePhoto: 'img/profile.png',
     url: 'https://hop931.github.io', // Your website URL: https://github.com/hop931
     baseUrl: '/tech-portfolio/', // Base URL for your project */
