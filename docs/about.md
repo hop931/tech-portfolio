@@ -10,6 +10,12 @@ In Fall 2021, I will pursing a Masters in Computer Science. I have applied to Jo
 
 Fun facts: 
 
+1. I love food! 
+1. I love to travel
+1. I have two dogs named Maui, and Kona. They are named after islands in Hawaii. 
+
+[Insert pictures of fun facts here]
+
 
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
