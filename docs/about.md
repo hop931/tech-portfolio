@@ -16,8 +16,8 @@ Fun facts:
   <img src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
 </p>
 
-1. I love to travel
-1. I have two dogs named Maui, and Kona. They are named after islands in Hawaii. 
+2. I love to travel
+3. I have two dogs named Maui, and Kona. They are named after islands in Hawaii. 
 
 
 <p float="left">
