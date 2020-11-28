@@ -11,8 +11,12 @@ In Fall 2021, I will pursing a Masters in Computer Science. I have applied to Jo
 Fun facts: 
 
 1. I love food!
-    <img src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
-    **figure 1** the new keyboard..wonder if it's good
+
+<p float="left">
+  <img src="./assets/IMG_6819.PNG" alt="Maui" width="200"/>
+  <img src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
+</p>
+
 1. I love to travel
 1. I have two dogs named Maui, and Kona. They are named after islands in Hawaii. 
 
