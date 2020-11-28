@@ -14,12 +14,11 @@ Fun facts:
 1. I love to travel
 1. I have two dogs named Maui, and Kona. They are named after islands in Hawaii. 
 
-[Insert pictures of fun facts here]
 
-![Image of Maui](./assets/IMG_6819.PNG)
-
-<img src="./assets/IMG_6819.PNG" alt="Maui" width="200"/>
-
+<p float="left">
+  <img src="./assets/IMG_6819.PNG" alt="Maui" width="200"/>
+  <img src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
+</p>
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
