@@ -10,7 +10,8 @@ In Fall 2021, I will pursing a Masters in Computer Science. I have applied to Jo
 
 Fun facts: 
 
-1. I love food! 
+1. I love food!
+<img src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
 1. I love to travel
 1. I have two dogs named Maui, and Kona. They are named after islands in Hawaii. 
 
@@ -19,20 +20,7 @@ Fun facts:
   <img src="./assets/IMG_6819.PNG" alt="Maui" width="200"/>
   <img src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
 </p>
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
 
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Degrees
 
