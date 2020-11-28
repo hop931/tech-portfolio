@@ -16,7 +16,7 @@ Fun facts:
 
 [Insert pictures of fun facts here]
 
-![Add alternate text for image](./assets/IMG_6819.png)
+(./assets/IMG_6819.png)
 
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
