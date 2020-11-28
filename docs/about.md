@@ -16,7 +16,9 @@ Fun facts:
 
 [Insert pictures of fun facts here]
 
-![Image of Maui](./assets/IMG_6819.PNG =100x20)
+![Image of Maui](./assets/IMG_6819.PNG)
+
+<img src="./assets/IMG_6819.PNG" alt="Maui" width="200"/>
 
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
