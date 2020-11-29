@@ -3,7 +3,7 @@ id: projects
 title: Projects
 ---
 
-##Internships 
+## Internships 
 
 MasterCard (Summer 2018): 
 • Create a self-service, self-hosted app for customers to have a way to setup basic alerting and monitoring for their applications deployed to Platform as a Service
