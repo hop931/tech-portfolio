@@ -9,7 +9,7 @@ Coming Soon. Beginning school in Fall 2021.
 
 ## Current Projects 
 
-Common Activity Code (CAC): This project uses internal charging data as well as various project details to create relevant charguing codes and predict how much a the future project is going to cost. This is especially important in that it help back government proposals be backed by data. As a software engineer, I developed the software baseline (front-end and back-end) from the prototype state to full-fedged applciation used by over 200 people. I have lead new feature discussions (ex. System Association and Character Encoding working sessions) and, present various demos to customers with every version release. 
+Common Activity Code (CAC): This project uses internal charging data as well as various project details to create relevant charging codes and predict how much a future project is going to cost. This is especially important in  helping government proposals be backed by data. As a software engineer, I developed the software baseline (front-end and back-end) from the prototype state to full-fedged applciation used by over 200 people. I have lead new feature discussions (ex. System Association and Character Encoding working sessions) and, present various demos to customers with every version release. 
 
 ## Internships 
 
