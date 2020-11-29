@@ -2,6 +2,13 @@
 id: projects
 title: Projects
 ---
+This page will give an overview on the various projects I have completed/ are working on.
+
+## Graduate School Projects 
+
+## Current Projects 
+
+Common Activity Code (CAC): 
 
 ## Internships 
 
