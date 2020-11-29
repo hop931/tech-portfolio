@@ -17,10 +17,10 @@ Fun facts:
 
 2. I love to travel
 3. I have two dogs named Maui, and Kona. They are named after islands in Hawaii. 
-  
-  <img src="./assets/IMG_6819.PNG" alt="Maui" width="200" height="300"/>
+<p float="left">  
+  <img src="./assets/IMG_6819.PNG" alt="Maui" style="float: left; margin-right: 10px width="200" height="300"/>
   <img src="./assets/IMG_7479.JPEG" alt="Kona" style="float: left; margin-right: 10px;" width="200" height="300"/>
-  
+</p>  
 4. I was a collegiate track and field athlete specializing in long and triple jump
 <p float="left">
   <img src="./assets/haley track .png" alt="track" width="400"/>
