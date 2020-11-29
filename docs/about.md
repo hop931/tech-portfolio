@@ -24,7 +24,7 @@ Fun facts:
 
 4. I was a collegiate track and field athlete specializing in long and triple jump
 <p float="left">
-  <img src="./assets/haley track .png" alt="track" width="200"/>
+  <img src="./assets/haley track .png" alt="track" width="400"/>
 </p>
 
 ## Degrees
