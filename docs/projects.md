@@ -9,7 +9,7 @@ Coming Soon. Beginning school in Fall 2021.
 
 ## Current Projects 
 
-Common Activity Code (CAC): 
+Common Activity Code (CAC): This project uses internal charging data as well as various project details to create relevant charguing codes and predict how much a the future project is going to cost. This is especially important in that it help back government proposals backed by data. 
 
 ## Internships 
 
