@@ -3,6 +3,16 @@ id: projects
 title: Projects
 ---
 
+##Internships 
+
+MasterCard (Summer 2018): 
+• Create a self-service, self-hosted app for customers to have a way to setup basic alerting and monitoring for their applications deployed to Platform as a Service
+• Prep, and perform analysis on third-party dataset, and Mastercard data using Hadoop and Hive
+
+Johns Hopkins Applied Physics Lab (Summer 2017): 
+• Implemented a program in C to boot a target application stored in one microprocessor to another via SpaceWire Remote Memory Access Protocol (RMAP)
+
+
 Embed any notable projects in this page.
 
 For example, my favorite project would be linked and I can even embed
