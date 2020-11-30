@@ -20,7 +20,7 @@ Fun facts:
 
 <p></p> 
 <p float="left" margin-right: "10px">
-  <img src="./assets/IMG_6819.PNG" alt="Maui" width="200" height="300"/>
+  <img src="./assets/IMG_6819.PNG" alt="Maui" style="float=left" width="200" height="300"/>
   <img src="./assets/IMG_7479.JPEG" alt="Kona" width="200" height="300"/>
 </p>  
                                                                                                                 
