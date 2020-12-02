@@ -19,14 +19,3 @@ MasterCard (Summer 2018):
 
 Johns Hopkins Applied Physics Lab (Summer 2017): 
 * Implemented a program in C to boot a target application stored in one microprocessor to another via SpaceWire Remote Memory Access Protocol (RMAP)
-
-
-Embed any notable projects in this page.
-
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
