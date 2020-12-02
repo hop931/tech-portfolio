@@ -11,7 +11,7 @@ In Fall 2021, I will pursing a Masters in Computer Science. I have applied to Jo
 Fun facts: 
 
 1. I love food!
-  <img src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
+  <img style="float: left" src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
 
 2. I love to travel
 <p style="float: right;">
