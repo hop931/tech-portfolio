@@ -16,6 +16,10 @@ Fun facts:
 </p>
 
 2. I love to travel
+<p float="left">
+  <img src="./assets/arch and me.jpg" alt="arch" width="200"/>
+</p>
+
 3. I have two dogs named Maui, and Kona. They are named after islands in Hawaii. 
 
 <p float="left">
