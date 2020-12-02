@@ -11,10 +11,10 @@ In Fall 2021, I will pursing a Masters in Computer Science. I have applied to Jo
 Fun facts: 
 
 1. I love food!
-  <img style="float: left;" src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
+  <img  src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
 
 2. I love to travel
-<p style="float: left;">
+<p style="float: left">
   <img style="float: left;" src="./assets/arch and me.jpg" alt="arch" width="200"/>
 </p>
 
@@ -22,10 +22,10 @@ Fun facts:
 
 <p style="float: left">
   <img src="./assets/IMG_6819.PNG" alt="Maui" style="float: left" width="200" height="300"/>
-  <img src="./assets/IMG_7479.JPEG" alt="Kona" style="float: left; margin-right: 10px;" width="200" height="300"/>
+  <img src="./assets/IMG_7479.JPEG" alt="Kona" style="float: left"; margin-right: 10px;" width="200" height="300"/>
 </p>  
                                                                                                                 
-<p></p>                                                                                                                 
+                                                                                                                
 4. I was a collegiate track and field athlete specializing in long and triple jump
 
 
