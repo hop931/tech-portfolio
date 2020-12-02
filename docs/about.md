@@ -47,7 +47,7 @@ Software Engineer at L3Harris
 
 ## Volunteer Work
 
-- P3 Coordinator: Assign L3Harris employees and interview candidates to each other.   
+- P3 Coordinator: Assign L3Harris employees and interview candidates to each other during the interview process.This initiative helps interview candidates learn about L3Harris company culture, various projects, and status updates.    
 - We3 Women Campus Site Lead: Promote We3 related events such as Tuition Reimbursement seminar, Mentoring Program by creating advertisement flyers, and emails 
 - Cross-ERG Mentoring Program: Mentor undergrad students about the professional lifestyle
 - PEER Program: Mentor incoming new hires with onboarding process by scheduling meetings with upper management, answering various questions about L3Harris tools                     and, introducing to coworkers.
