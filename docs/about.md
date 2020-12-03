@@ -13,9 +13,12 @@ Fun facts:
   <img  src="./assets/DA1D303A-A1EF-4B0D-80B6-F4C4C0087B70.JPG" alt="cake" width="200"/>
 
 2. I love to travel
-  <img src="./assets/arch and me.jpg" alt="arch" width="200"/>
+ 
+ <img src="./assets/arch and me.jpg" alt="arch" width="200"/>
+
 
 3. I have two dogs named Maui, and Kona. They are named after islands in Hawaii. 
+
 
   <img src="./assets/IMG_6819.PNG" alt="Maui" width="200" height="300"/> <img src="./assets/IMG_7479.JPEG" alt="Kona" width="200" height="300"/>  
                                                                                                                 
