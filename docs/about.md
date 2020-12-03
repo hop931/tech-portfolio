@@ -6,7 +6,7 @@ title: About
 
 Hi, I am Haley Prengaman! I currently work as a full-time software engineer at L3Harris. I have had two previous internships at Johns Hopkins Applied Physics Lab and Mastercard. If you  are interested in learning more, visit my Project Tab. 
 
-In Fall 2021, I will pursing a Masters in Computer Science. I have applied to Johns Hopkins and Georgia Tech. These programs are great for professional development and  expand my knowledge in Robotics and Intelligence. 
+In Fall 2021, I will pursing a Masters in Computer Science. I have applied to Johns Hopkins and Georgia Tech. These programs will enchance my professional development by expanding my knowledge in Robotics and Intelligence. 
 
 Fun facts: 
 
