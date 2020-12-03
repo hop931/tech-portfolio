@@ -4,10 +4,9 @@ title: About
 ---
 
 
-Hi, I am Haley Prengaman! I currently work as a full-time software engineer at L3Harris. I have had two previous internships at Johns Hopkins Applied Physics Lab and Mastercard. If you interested in learning more, visit my Project Tab. 
+Hi, I am Haley Prengaman! I currently work as a full-time software engineer at L3Harris. I have had two previous internships at Johns Hopkins Applied Physics Lab and Mastercard. If you  are interested in learning more, visit my Project Tab. 
 
-In Fall 2021, I will pursing a Masters in Computer Science. I have applied to Johns Hopkins and Georgia Tech. These programs are great for professionals because I can work full-time at my job while going to online classes at night. 
-
+In Fall 2021, I will pursing a Masters in Computer Science. I have applied to Johns Hopkins and Georgia Tech. These programs are great for professional development because it will expand my knowledge in Robotics and knowledge= which will lead 
 Fun facts: 
 
 1. I love food!
@@ -15,7 +14,7 @@ Fun facts:
 
 2. I love to travel
 <p style="float: left">
-  <img style="float: left;" src="./assets/arch and me.jpg" alt="arch" width="200"/>
+  <img src="./assets/arch and me.jpg" alt="arch" width="200"/>
 </p>
 
 3. I have two dogs named Maui, and Kona. They are named after islands in Hawaii. 
